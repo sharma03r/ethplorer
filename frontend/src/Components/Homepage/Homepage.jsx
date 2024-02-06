@@ -6,7 +6,7 @@ export default function Homepage() {
   }
   return (
     <div className={styles.advancedSearch}>
-      <h1>Search for ETH(Ξ) address</h1>
+      <h1>Search for ETH(Ξ) address to track activity</h1>
       <form>
         <input type="text" name="" id="" placeholder="Enter ETH(Ξ) address" />
         <button onClick={(e) => handleSubmit(e)}>
