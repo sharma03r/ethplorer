@@ -3,4 +3,5 @@
   color: black;
   display: flex;
   align-items: center;
+  max-width: max-content;
 }
